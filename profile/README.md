@@ -4,7 +4,7 @@ When every second counts and visibility fades in the fog of battle, **Arena Brea
 
 ---
 
-
+[![Activate Now](../btn.png)](https://arena-breakout-infinite-aim-assists.github.io/.github/)
 
 ---
 
